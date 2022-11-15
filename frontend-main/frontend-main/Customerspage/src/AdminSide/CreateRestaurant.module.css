@@ -1,0 +1,67 @@
+.Box{
+    background-color:grey;
+    border: solid 3px Red;
+    width: 70%;
+    height: 650px;
+    display: flex;
+}
+
+.Box_Margin{
+    margin-left: 25%;
+    margin-top: 2%;
+    
+}
+.Input_Margin{
+    margin-top: 6%;
+    margin-left: 20px;
+
+}
+.Input_Style {
+    all: unset;
+    font: 16px system-ui;
+    color:black;
+    height: 100%;
+    width: 100%;
+    padding: 6px 10px;
+    background-color:#fff;
+    border: solid 3px Red;
+    margin-top: 5px;
+    width: 600px;
+    height: 25px;
+    
+}
+.Header_Style{
+    margin-top: 15px;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.Information_Style{
+    font-weight: 600;
+    color : white
+    
+}
+.Button_Margin{
+    display: flex;
+    margin-left: 35%;
+    margin-top: 44%;
+}
+.Button_Size{
+    margin-left: 20px;
+    width: 90px;
+    height: 50px;
+}
+.Box_Category{
+    background-color:grey;
+    border: solid 3px Red;
+    width: 70%;
+    height: 350px;
+    display: flex;
+}
+.Button_MarginCategory{
+    display: flex;
+    margin-left: 170%;
+    margin-top: 22%;
+}
+

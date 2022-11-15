@@ -1,0 +1,64 @@
+
+
+.topBar{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #810000;
+    border-top-left-radius:20px;
+    border-top-right-radius:20px;
+    font-weight: 500;
+    font-size: 18px;
+    color: white;
+    height: 50px;
+}
+
+
+
+.button{
+    display: flex;
+    height: 40px;
+    width:200px;
+    justify-content: center;
+    align-items: center;
+    background-color: #810000;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border: none;
+    color:white;
+    font-weight: 600;
+    font-size: 200px;
+}
+
+.container{
+    padding-left:35%;
+    padding-top:3%;
+    width:30%;
+    border-radius: 20px;
+    
+     
+}
+
+.inputs{
+
+    border-radius: 10px;
+    height: 35px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+.LogIn {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding-top:30px;
+    align-items: center;
+    border-width: medium;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 3px 5px rgb(201, 195, 195);
+   
+   
+}

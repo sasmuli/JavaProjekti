@@ -1,0 +1,56 @@
+.Box{
+    background-color: white;
+    border: solid 3px Red;
+    max-width: 95%;
+    max-height: 20%;
+    min-width: 50%;
+}
+.Box_Margin{
+    margin-left: 0.5%;
+    margin-top: 2%;
+}
+.Box_Content{
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.Box_Flex{
+    margin-top: 5px;
+    display: flex;
+}
+.Box_Products{
+    display: flex;
+    margin-top: 35px;
+    margin-left: 20px;
+    max-width: 80%;
+    width: 70%;
+}
+.Info_Text{
+    font-weight: bold;
+    margin-top: 15px;
+}
+.Status_Margin{
+    margin-right: 3%;
+    margin-left: 5%;
+}
+.Button_Margin{
+    width: 100px;
+    height: 60px;
+    margin-top: 20px;
+}
+.Text_Style1{
+    font-weight: bold;
+}
+.Text_Style2{
+    margin-top: 20px;
+}
+.Text_Style3{
+    margin-right: 15px;
+    margin-top: 20px;
+}
+.Text_Style4{
+    margin-top: 10px;
+}
+.Text_Style5{
+    margin-top: 20px;
+}

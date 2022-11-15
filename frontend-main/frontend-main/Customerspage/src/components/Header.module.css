@@ -1,0 +1,56 @@
+.brand {
+    margin-right: 10%;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Arial';
+    white-space: nowrap;
+}
+
+.header {
+    background-color: rgb(0, 0, 0);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.container {
+    display: flex;
+    color: rgb(253, 253, 253);
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 20%;
+    font-size: 20px;
+    font-family: 'monospace';
+    
+}
+
+button {
+    display: inline-block;
+    border: none;
+    padding: 1rem 2rem;
+    margin: 0;
+    text-decoration: none;
+    background: #810000;
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 1rem;
+    cursor: pointer;
+    text-align: center;
+    transition: background 250ms ease-in-out, 
+                transform 150ms ease;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+button:hover,
+button:focus {
+    background: #ff0000;
+}
+
+button:focus {
+    outline: 1px solid #fff;
+    outline-offset: -4px;
+}
+
+button:active {
+    transform: scale(0.99);
+}

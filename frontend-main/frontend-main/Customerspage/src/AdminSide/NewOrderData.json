@@ -1,0 +1,22 @@
+{
+    "NewOrderData":[
+        {
+            "OrderNumber":"1",
+            "ProductsOrdered":[{"Item":"Hamburger","Price":"7€"},{"Item":"Soda","Price":"2€"},{"Item":"Fries","Price":"3€"},{"Item":"Cookie","Price":"1€"}],
+            "TotalPrice":"13€",
+            "Address":"Random address",
+            "CustomerName":"Customer 1",
+            "ZipCode":"xxxxx",
+            "Time":"7:45pm"
+        },
+        {
+            "OrderNumber":"2",
+            "ProductsOrdered":[{"Item":"Steak","Price":"22€"},{"Item":"Salad","Price":"8€"}],
+            "TotalPrice":"30€",
+            "Address":"Random adders",
+            "CustomerName":"Customer 2",
+            "ZipCode":"xxxxx",
+            "Time":"1:12am"
+        }
+    ]
+}
